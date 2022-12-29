@@ -1,0 +1,36 @@
+.topBer-phone-email {
+    display: flex;
+    justify-content: space-between;
+    width: 316px;
+}
+
+.topberWrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.topber {
+    background: rebeccapurple;
+    height: 57px;
+    align-items: center;
+    display: flex;
+    color: white;
+}
+
+.topberIcons a {
+    color: #ffffffad;
+    margin: 9px;
+}
+
+.topberIcons a:nth-child(3) {
+    color: white;
+}
+
+.topberIcons a:hover {
+    color: white;
+}
+
+
+.topBer-phone-email div i {
+    color: white;
+}
